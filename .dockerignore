@@ -1,0 +1,8 @@
+*.pth
+*.yaml
+*.json
+*.pdf
+*.md
+serialize_model_client.py
+client.py
+/output/
