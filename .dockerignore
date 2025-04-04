@@ -5,4 +5,4 @@
 *.md
 serialize_model_client.py
 client.py
-/output/
+output/*
